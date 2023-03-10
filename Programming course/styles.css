@@ -1,0 +1,347 @@
+body {
+    background-color: black;
+}
+
+.box1 {
+    border: 2px solid black;
+    font-family: sans-serif;
+    font-size: 45px;
+    font-weight: 400;
+    text-align: center;
+    height: 200px;
+    background-color: grey;
+    margin: 0;
+}
+
+#sub-text {
+    font-size: 25px;
+    font-weight: 200;
+    font-family: sans-serif;
+}
+
+.languages {
+    border: 1px solid black;
+    border-radius: 15px;
+    text-align: center;
+    margin: 10px;
+    font-family: sans-serif;
+    font-size: 45px;
+    font-weight: 300;
+    background-color: aqua;
+    height: 400px;
+    display: flex;
+    align-items: center;
+}
+
+#html {
+    border: 2px solid black;
+    border-radius: 25px;
+    font-family: sans-serif;
+    margin: 10px;
+    background-color: orangered;
+    width: 320px;
+    height: 320px;
+    cursor: pointer;
+}
+
+#JavaScript {
+    border: 2px solid black;
+    border-radius: 25px;
+    font-family: sans-serif;
+    margin: 10px;
+    background-color: rgb(234, 162, 19);
+    width: 320px;
+    height: 320px;
+    cursor: pointer;
+}
+
+#Styles {
+    border: 2px solid black;
+    border-radius: 25px;
+    font-family: sans-serif;
+    margin: 10px;
+    background-color: rgb(19, 216, 220);
+    width: 320px;
+    height: 320px;
+    cursor: pointer;
+}
+
+#html-img {
+    width: 150px;
+    height: 150px;
+}
+
+#js-img {
+    width: 250px;
+    height: 150px;
+}
+
+#css-img {
+    width: 250px;
+    height: 150px;
+}
+
+.More-about {
+    border: 2px solid black;
+    border-radius: 20px;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: 300;
+    background-color: rgb(24, 209, 24);
+    height: 100px;
+    text-align: center;
+}
+
+#Home {
+    font-size: 18px;
+    text-align: unset;
+    text-decoration: none;
+}
+
+#Contact {
+    font-size: 18px;
+    text-align: unset;
+    text-decoration: none;
+}
+
+#About {
+    font-size: 18px;
+    text-align: unset;
+    text-decoration: none;
+}
+
+#click {
+    font-size: 15px;
+    text-decoration: none;
+}
+
+#title {
+    font-size: 45px;
+    font-family: sans-serif;
+    font-weight: 300;
+    background-color: orangered;
+    text-align: center;
+}
+
+.tags {
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: 300;
+    border: 1px solid black;
+    border-radius: 25px;
+    margin: 10px;
+    display: flex;
+    padding: 5px;
+}
+
+#title-tag {
+    border: 2px solid black;
+    border-radius: 25px;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    font-size: 15px;
+    background-color: goldenrod;
+}
+
+#head-tag {
+    border: 2px solid black;
+    border-radius: 25px;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    font-size: 15px;
+    background-color: goldenrod;
+}
+
+#body-tag {
+    border: 2px solid black;
+    border-radius: 25px;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    font-size: 15px;
+    background-color: goldenrod;
+}
+
+#button-tag {
+    border: 2px solid black;
+    border-radius: 25px;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    font-size: 15px;
+    background-color: goldenrod;
+}
+
+#div-tag {
+    border: 2px solid black;
+    border-radius: 25px;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    font-size: 15px;
+    background-color: goldenrod;
+}
+
+#a-tag {
+    border: 2px solid black;
+    border-radius: 25px;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    font-size: 15px;
+    background-color: goldenrod;
+}
+
+#li-tag {
+    border: 2px solid black;
+    border-radius: 25px;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    font-size: 15px;
+    background-color: goldenrod;
+}
+
+#link-tag {
+    border: 2px solid black;
+    border-radius: 25px;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    font-size: 15px;
+    background-color: goldenrod;
+}
+
+.about-html {
+    border: 2px solid black;
+    border-radius: 25px;
+    font-size: 35px;
+    font-family: sans-serif;
+    font-weight: 300;
+    background-color: rgb(240, 7, 7);
+    text-align: center;
+}
+
+#sub-about-html {
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 300;
+}    
+
+#contact-html {
+    border: 2px solid black;
+    border-radius: 25px;
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: 300;
+    background-color: red;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#sub-contact {
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+.sub-title-tag {
+    border: 2px solid black;
+    font-size: 45px;
+    font-family: sans-serif;
+    font-weight: 300;
+    background-color: orangered;
+    text-align: center;
+}
+
+#sub-title-text {
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#text-title {
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#Example-text {
+    font-size: 45px;
+    font-family: sans-serif;
+    font-weight: 300;
+    text-align: left;
+}
+
+#title-sub-tag {
+    border: 2px solid grey;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 300;
+    background-color: rgb(15, 14, 14);
+    color: rgb(105, 105, 214);
+    width: 1100px;
+    height: 200px;
+    margin: 10px;
+    padding: 5px;
+}
+
+.sub-head-tag {
+    border: 2px solid black;
+    border-radius: 25px;
+    font-size: 45px;
+    font-family: sans-serif;
+    font-weight: 300;
+    background-color: orangered;
+    text-align: center;
+}
+
+.sub-body-tag {
+    border: 2px;
+    border-radius: 25px;
+    font-size: 45px;
+    font-family: sans-serif;
+    font-weight: 300;
+    background-color: orangered;
+    text-align: center;
+}
+
+#sub-body-text {
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#body-example {
+    font-size: 30px;
+    text-align: left;
+    margin: 10px;
+}    
+
+#body-sub-example {
+    border: 2px solid grey;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 300;
+    background-color: rgb(15, 14, 14);
+    color: rgb(105, 105, 214);
+    width: 1100px;
+    height: 200px;
+    margin: 20px;
+    padding: 5px;
+}
+
+.box {
+    border: 2px solid black;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 300;
+    background-color: rgb(96, 94, 94);
+}
+
+#Browser {
+    font-size: 20px;
+    color: rgb(14, 145, 175);
+}
